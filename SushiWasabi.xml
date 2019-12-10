@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cafemenu>
+  <section name="Starter">
+    <entree vegetarian="true">
+      <item>Edamame</item>
+      <price>4.20</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>Yasai Gyoza</item>
+      <price>6.20</price>
+    </entree>
+    <entree>
+      <item>Gyoza</item>
+      <price>6.80</price>
+    </entree>
+    <entree>
+      <item>Season Salad</item>
+      <price>5.20</price>
+    </entree>
+    <entree>
+      <item>Ebi Tempura</item>
+      <price>7.20</price>
+    </entree>
+  </section>
+  <section name="Sushi">
+    <entree>
+      <item>California Roll</item>
+      <price>7.00</price>
+    </entree>
+    <entree>
+      <item>Prawn Roll</item>
+      <price>8.00</price>
+    </entree>
+    <entree>
+      <item>Tuna Roll</item>
+      <price>8.50</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>Cucumber Hosomaki</item>
+      <price>6.00</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>Wild Rocket and Dried Tomato Roll</item>
+      <price>7.00</price>
+    </entree>
+    <entree>
+      <item>Salmon with Cream Cheese Roll</item>
+      <price>8.00</price>
+    </entree>
+  </section>
+  <section name="Ramen and Udon">
+    <entree>
+      <item>Stewed Pork Ramen</item>
+      <price>12.95</price>
+    </entree>
+    <entree>
+      <item>Stewed Pork Udon</item>
+      <price>12.95</price>
+    </entree>
+    <entree>
+      <item>Seafood Miso Ramen</item>
+      <price>13.95</price>
+    </entree>
+    <entree>
+      <item>Seafood Miso Udon</item>
+      <price>13.95</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>Vegetable Ramen</item>
+      <price>10.50</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>Vegetable Udon</item>
+      <price>10.50</price>
+    </entree>
+  </section>
+  <section name="Teriyaki">
+    <entree>
+      <item>Chicken Teriyaki</item>
+      <price>11.95</price>
+    </entree>
+    <entree>
+      <item>Duck Teriyaki</item>
+      <price>12.95</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>Tofu Teriyaki</item>
+      <price>11.00</price>
+    </entree>
+    <entree>
+      <item>Beef Teriyaki</item>
+      <price>12.95</price>
+    </entree>
+  </section>
+  <section name="Extra">
+    <entree>
+      <item>Miso Soup</item>
+      <price>2.00</price>
+    </entree>
+    <entree>
+      <item>Wasabi</item>
+      <price>1.00</price>
+    </entree>
+    <entree>
+      <item>Sushi Pickled Ginger</item>
+      <price>1.00</price>
+    </entree>
+  </section>
+  <section name="Soft Drinks">
+    <entree>
+      <item>Coca-Cola</item>
+      <price>2.00</price>
+    </entree>
+    <entree>
+      <item>Diet Coca-Cola</item>
+      <price>2.00</price>
+    </entree>
+    <entree>
+      <item>Club Orange</item>
+      <price>2.00</price>
+    </entree>
+    <entree>
+      <item>Fresh Orange Juice</item>
+      <price>3.50</price>
+    </entree>
+    <entree>
+      <item>Iced Tea</item>
+      <price>2.50</price>
+    </entree>
+  </section>
+</cafemenu>
